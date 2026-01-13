@@ -68,9 +68,10 @@
 ### 🔝 Top Contributed Repositories
 <p align="center">
   <img
-    src="https://github-contributor-stats.vercel.app/api?username=tellapallyakhil&limit=5&theme=dark&combine_all_yearly_contributions=true"
-    alt="GitHub Contributor Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tellapallyakhil&layout=compact&theme=dark"
+    alt="Top Languages"
   />
 </p>
+
 
 ---
