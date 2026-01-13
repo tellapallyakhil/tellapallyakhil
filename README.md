@@ -24,10 +24,6 @@
 • Full-stack web development<br>
 • REST APIs and cloud fundamentals<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Innovative+Data+Analyst+%7C+Prompt+Engineer+%7C+Open+Source+Explorer;Secure+Systems+%7C+ML+Solutions+%7C+Collaborative+Creator" alt="Typing SVG" />
-
-<img align="right" alt="Coding" width="400"
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ⚡ Fun fact:<br>
 • I enjoy debugging and optimizing code more than writing it<br>
