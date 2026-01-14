@@ -3,7 +3,7 @@
 </p>
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Engineer;Full-Stack+%7C+Backend+%7C+Cloud;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=AIML+Student;Aspiring+Software+Engineer;Full-Stack+%7C+Backend+%7C+Cloud;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
