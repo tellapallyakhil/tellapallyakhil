@@ -65,6 +65,4 @@
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tellapallyakhil&layout=compact&theme=dark)
 
 ---
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tellapallyakhil&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tellapallyakhil&theme=dark&hide_border=true)](https://git.io/streak-stats)
