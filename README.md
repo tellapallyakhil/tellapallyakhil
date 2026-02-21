@@ -26,7 +26,7 @@
 
 
 ⚡ Fun fact:<br>
-• I enjoy debugging and optimizing code more than writing it<br>
+• I enjoy debugging and optimizing code more than writing it.<br>
 
 ---
 
